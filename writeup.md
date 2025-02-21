@@ -126,7 +126,7 @@ I decided to take a step back and systematically analyze all the available infor
 
 Given the hint `repetition is the mother of all knowledge`, I inferred that the key might involve repeating a word until it reached 32 characters.
 
-To derive the key, I focused on the provided webpage, `https://www.w3.org/History.html`, and the date `1991/December/4`. Upon navigating the page, I found a section titled *1991* and a subsection titled *December*, but there was no explicit mention of the number *4*. I later learned that the *'4'* in the 'date' represented the *4'th* word of the subsection.
+To derive the key, I focused on the provided webpage, `https://www.w3.org/History.html`, and the date `1991/December/4`. Upon navigating the page, I found a section titled *1991* and a subsection titled *December*, but there was no explicit mention of the number *4*.
 
 <img src="images/history_key_page.png">
 
